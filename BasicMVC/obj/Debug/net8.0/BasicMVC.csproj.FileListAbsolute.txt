@@ -28,3 +28,4 @@ c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\obj\Debug\net8.0\refint\Bas
 c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\obj\Debug\net8.0\BasicMVC.pdb
 c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\obj\Debug\net8.0\BasicMVC.genruntimeconfig.cache
 c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\obj\Debug\net8.0\ref\BasicMVC.dll
+c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\obj\Debug\net8.0\BasicMVC.sourcelink.json
