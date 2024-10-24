@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {}
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
         "projectName": "BasicMVC",
-        "projectPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
