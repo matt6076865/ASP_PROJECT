@@ -9,9 +9,7 @@ namespace BasicMVC.DataLayer {
 
         public BasicDBContext(DbContextOptions<BasicDBContext> options):base(options) {}
 
-    }
-
-    protected override void OModelCreating(ModelBuilder modelBuilder)
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Message>().HasData(
@@ -19,5 +17,5 @@ namespace BasicMVC.DataLayer {
                 new Message {MessageID = 2, MessageText = "Message Two"}
             );
         }
-
+    }
 }

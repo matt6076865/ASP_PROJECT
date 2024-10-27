@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {}
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
+        "projectUniqueName": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
         "projectName": "BasicMVC",
-        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
+        "projectPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\BasicMVC.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\obj\\",
+        "outputPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
