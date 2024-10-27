@@ -9,6 +9,11 @@ namespace BasicMVC.DataLayer {
 
         public BasicDBContext(DbContextOptions<BasicDBContext> options):base(options) {}
 
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+    optionsBuilder.UseSqlite("Data Source=databse.dat");
+    }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
