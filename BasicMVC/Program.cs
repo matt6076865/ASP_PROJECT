@@ -1,14 +1,27 @@
 using BasicMVC.DataLayer;
 using Microsoft.EntityFrameworkCore;
+using BasicMVC.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore.Migrations.Operations;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddIdentity<MVCUser, IdentityRole> (options => {
+ options.Password.RequiredLength = 10;
+ options.Password.RequireNonAlphanumeric = false;
+ options.Password.RequireDigit = false;
+
+}).AddEntityFrameworkStores<AuthDbContext>().AddDefaultTokenProviders();
+
 
 //add connection string
-builder.Services.AddDbContext<BasicDBContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("BasicMVCContextString")));
+//builder.Services.AddDbContext<BasicDBContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("BasicMVCContextString")));
+builder.Services.AddDbContext<AuthDbContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("BasicMVCContextString")));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
