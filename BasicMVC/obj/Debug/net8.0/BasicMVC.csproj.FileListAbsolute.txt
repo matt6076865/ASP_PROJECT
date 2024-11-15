@@ -128,9 +128,7 @@ C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\staticweba
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BasicMVC.props
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BasicMVC.props
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\scopedcss\bundle\BasicMVC.styles.css
-C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\scopedcss\projectbundle\BasicMVC.bundle.scp.css
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\BasicMVC.csproj.Up2Date
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\BasicMVC.dll
 C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\basicMVC\obj\Debug\net8.0\refint\BasicMVC.dll
