@@ -21,7 +21,7 @@ namespace ContosoUniversity.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public IActionResult Index() // home page
         {
             return View();
         }
@@ -36,8 +36,8 @@ namespace ContosoUniversity.Controllers
                 using (var command = conn.CreateCommand())
                 {
                     string query = "SELECT EnrollmentDate, COUNT(*) AS StudentCount "
-                        + "FROM Person "
-                        + "WHERE Discriminator = 'Student' "
+                        + "FROM Student "
+                        //+ "WHERE Discriminator = 'Student' "
                         + "GROUP BY EnrollmentDate";
                     command.CommandText = query;
                     DbDataReader reader = await command.ExecuteReaderAsync();
@@ -72,3 +72,4 @@ namespace ContosoUniversity.Controllers
         }
     }
 }
+

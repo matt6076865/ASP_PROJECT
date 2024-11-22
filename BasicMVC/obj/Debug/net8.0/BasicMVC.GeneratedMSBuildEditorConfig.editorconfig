@@ -9,131 +9,131 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BasicMVC
 build_property.RootNamespace = BasicMVC
-build_property.ProjectDir = C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\
+build_property.ProjectDir = c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC
+build_property.MSBuildProjectDirectory = c:\Users\Owner\OneDrive\Desktop\ASP_PROJECT\BasicMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Create.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Delete.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Details.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Edit.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Index.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/UpdateCourseCredits.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Courses/UpdateCourseCredits.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xVcGRhdGVDb3Vyc2VDcmVkaXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Create.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Delete.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Details.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Edit.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Index.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/About.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/Index.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/Privacy.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Create.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Delete.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Details.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Edit.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Index.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Instructors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/Error.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_CookieConsentPartial.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_CookieConsentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Create.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Delete.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Details.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Edit.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Index.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/_ViewImports.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/_ViewStart.cshtml]
+[c:/Users/Owner/OneDrive/Desktop/ASP_PROJECT/BasicMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

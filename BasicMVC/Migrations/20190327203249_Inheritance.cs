@@ -17,11 +17,12 @@ namespace ContosoUniversity.Migrations
             migrationBuilder.RenameTable(name: "Instructor", newName: "Person");
             migrationBuilder.AddColumn<DateTime>(name: "EnrollmentDate", table: "Person", nullable: true);
             migrationBuilder.AddColumn<string>(name: "Discriminator", table: "Person", nullable: false, maxLength: 128, defaultValue: "Instructor");
-            migrationBuilder.AlterColumn<DateTime>(name: "HireDate", table: "Person", nullable: true);
+            migrationBuilder.AlterColumn<DateTime>(name: "HireDate", table: "Person", defaultValue: "Text");
+            // migrationBuilder.DropCheckConstraint(name: "NOT NULL" , table: "Person" );
             migrationBuilder.AddColumn<int>(name: "OldId", table: "Person", nullable: true);
 
             // Copy existing Student data into new Person table.
-            migrationBuilder.Sql("INSERT INTO Person (LastName, FirstName, HireDate, EnrollmentDate, Discriminator, OldId) SELECT LastName, FirstName, null AS HireDate, EnrollmentDate, 'Student' AS Discriminator, ID AS OldId FROM Student");
+            migrationBuilder.Sql("INSERT INTO Person (LastName, FirstName, EnrollmentDate, Discriminator, OldId) SELECT LastName, FirstName, EnrollmentDate, 'Student' AS Discriminator, ID AS OldId FROM Student");
             // Fix up existing relationships to match new PK's.
             migrationBuilder.Sql("UPDATE Enrollment SET StudentId = (SELECT ID FROM Person WHERE OldId = Enrollment.StudentId AND Discriminator = 'Student')");
 

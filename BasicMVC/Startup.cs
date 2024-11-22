@@ -55,14 +55,23 @@ namespace ContosoUniversity
             }
 
             app.UseHttpsRedirection();
+            app.UseDefaultFiles();
             app.UseStaticFiles();
             app.UseCookiePolicy();
             app.UseRouting();
             app.UseCors();
-            app.UseEndpoints(routes =>
+            //app.UseEndpoints(routes =>
+            //endpoints.MapRazorPages(); //Routes for pages
+            //endpoints.MapControllers(); //Routes for my API controllers
+             app.UseEndpoints(endpoints =>
             {
-             routes.MapControllerRoute("default", "{controller = Home}/{action=Index}");   
-            });
+             endpoints.MapControllerRoute("Default", "{controller=Home}/{action=Index}/{id?}"); 
+}           );
+             //routes.MapControllerRoute("default", "{controller = Home}/{action=Index}");   
+            //});
         }
     }
 }
+
+
+    

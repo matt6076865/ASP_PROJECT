@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KqyWmShVli6KeGlM7xIhilORHsPn8Pw0l1Y4JAciC+U=",
+  "Hash": "FyQxEXK+8j92B87sGHH3uSNrOh6a/jOa0D356k6YVds=",
   "Source": "BasicMVC",
   "BasePath": "_content/BasicMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BasicMVC\\wwwroot",
       "Source": "BasicMVC",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\css\\site.css",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\favicon.ico",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\js\\site.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\js\\site.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BasicMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\ASP_PROJECT\\BasicMVC\\wwwroot\\",
       "BasePath": "_content/BasicMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
