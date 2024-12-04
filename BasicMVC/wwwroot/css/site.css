@@ -2,9 +2,10 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {
-  white-space: normal;
+  white-space-collapse: normal;
   text-align: center;
   word-break: break-all;
+  color-scheme: rgb(255, 0, 85);
 }
 
 /* Sticky footer styles
@@ -19,10 +20,10 @@ html {
 }
 
 .border-top {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #367546;
 }
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid hsl(0, 65%, 30%);
 }
 
 .box-shadow {
