@@ -17,7 +17,7 @@ namespace ContosoUniversity.Migrations
             migrationBuilder.RenameTable(name: "Instructor", newName: "Person");
             migrationBuilder.AddColumn<DateTime>(name: "EnrollmentDate", table: "Person", nullable: true);
             migrationBuilder.AddColumn<string>(name: "Discriminator", table: "Person", nullable: false, maxLength: 128, defaultValue: "Instructor");
-            migrationBuilder.AlterColumn<DateTime>(name: "HireDate", table: "Person", defaultValue: "Text");
+            migrationBuilder.AlterColumn<DateTime>(name: "HireDate", table: "Person", nullable: true);
             // migrationBuilder.DropCheckConstraint(name: "NOT NULL" , table: "Person" );
             migrationBuilder.AddColumn<int>(name: "OldId", table: "Person", nullable: true);
 
